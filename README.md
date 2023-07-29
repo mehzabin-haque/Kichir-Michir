@@ -1,8 +1,8 @@
-## ChirpUp - A Bangla Twitter Clone
+## **ChirpUp - A Bangla Twitter Clone**
 
 ChirpUp is a captivating Twitter clone developed in Bangla, offering users a unique experience. It is built using React, NextJS, TailwindCSS, MongoDB, and Prisma.
 
-### Functionalities
+### **Functionalities**
 
 - Authentication system to secure user accounts
 - Notification system for real-time updates
@@ -12,11 +12,11 @@ ChirpUp is a captivating Twitter clone developed in Bangla, offering users a uni
 - Comments / Replies for engaging interactions
 - Likes functionality to appreciate posts
 
-### Prerequisites
+### **Prerequisites**
 
 Make sure you have **Node version 14.x** installed on your system.
 
-### Cloning the Repository
+### **Cloning the Repository**
 
 To get started, clone the repository using the following command:
 
@@ -24,7 +24,7 @@ To get started, clone the repository using the following command:
 git clone https://github.com/shazzad5709/chirp-up.git
 ```
 
-### Installation
+### **Installation**
 
 After cloning the repository, install the required packages with the following command:
 
@@ -32,7 +32,7 @@ After cloning the repository, install the required packages with the following c
 npm i
 ```
 
-### Setup .env File
+### **Setup .env File**
 
 Before running the app, you need to set up the .env file with the required environment variables. Please include the following values:
 
@@ -42,7 +42,7 @@ NEXTAUTH_JWT_SECRET=    // JWT secret for NextAuth.js
 NEXTAUTH_SECRET=    // Secret for NextAuth.js
 ```
 
-### Running the App
+### **Running the App**
 
 To start the development instance of the app, use the following command:
 
@@ -50,7 +50,7 @@ To start the development instance of the app, use the following command:
 npm run dev
 ```
 
-### Available Commands
+### **Available Commands**
 
 You can run various commands using npm:
 
