@@ -1,6 +1,6 @@
-## **ChirpUp - A Bangla Twitter Clone**
+## **KichirMichir - A Bangla Twitter Clone**
 
-ChirpUp is a captivating Twitter clone developed in Bangla, offering users a unique experience. It is built using React, NextJS, TailwindCSS, MongoDB, and Prisma.
+KichirMichir is a captivating Twitter clone developed in Bangla, offering users a unique experience. It uses React, NextJS, TailwindCSS, MongoDB, and Prisma.
 
 ### **Functionalities**
 
